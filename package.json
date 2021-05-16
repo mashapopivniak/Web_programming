@@ -1,0 +1,31 @@
+{
+  "name": "web_programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashapopivniak/Web_programming.git"
+  },
+  "author": "mashapopivniak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mashapopivniak/Web_programming/issues"
+  },
+  "homepage": "https://github.com/mashapopivniak/Web_programming#readme",
+  "devDependencies": {
+    "browsersync": "0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
