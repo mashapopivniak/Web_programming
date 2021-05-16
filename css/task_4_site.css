@@ -1,0 +1,1 @@
+li.nav-item{cursor:pointer}@media only screen{#menu{border-right:0}}@media only screen and (min-width :576px){#menu{border-right:1px solid #585b5e}#context{height:100vh;min-height:100vh;overflow-y:auto}}.painting{border:1px solid #fff;transition:border .3s;cursor:pointer}.painting:hover{border:1px solid #0d6efd;transition:border .3s}
